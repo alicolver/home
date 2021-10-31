@@ -53,12 +53,11 @@ function Main() {
                     Work
                 </Heading>
                 <Paragraph>
-                    Ali is a backend engineer based in Edinburgh with a
-                    passion for building digital services that delight users. He enjoys all
+                    Ali is a backend engineer based in Edinburgh. He enjoys all
                     parts of the devlopment cycle, from planning and designing all the
                     way to deploying and cloud ops. When not online, he loves
                     hanging out with his friends. Currently, he is working for a small company
-                    based that's headerquartered in Seattle (not Microsoft ;)).
+                    that's headerquartered in Seattle.
                 </Paragraph>
             </Section>
 
