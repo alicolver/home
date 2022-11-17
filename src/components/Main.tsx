@@ -88,7 +88,7 @@ function Main() {
           I ♥
         </Heading>
         <Paragraph>
-            Music, Tennis, Football, Playing Guitar, N'golo Kante, Machine Learning 
+            Music, Tennis, Football, Playing Guitar, Machine Learning 
         </Paragraph>
       </Section>
 
